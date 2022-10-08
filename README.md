@@ -1,6 +1,6 @@
 This script tries to immitate Sublime Text's arithmetic command.
 
-!(showcase of the script)[https://gist.githubusercontent.com/CyborgSquirrel/4a83b65f6a55862d72f45d38c31f56a5/raw/c50f5bcf8335e4feaa7e827f73714fffa87f0f23/arithmetic-kak.gif]
+![showcase of the script](https://gist.githubusercontent.com/CyborgSquirrel/4a83b65f6a55862d72f45d38c31f56a5/raw/c50f5bcf8335e4feaa7e827f73714fffa87f0f23/arithmetic-kak.gif)
 
 To install, either clone the repo and source the script inside your `kakrc`, or use `plug.kak`.
 
